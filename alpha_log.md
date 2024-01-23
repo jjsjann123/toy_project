@@ -1,3 +1,4 @@
-# starting alpha feature development
+# alpha feature
 
 Adding some documentation
+Another edit
